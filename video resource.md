@@ -3,7 +3,7 @@
 - [**Data science projects**](https://www.youtube.com/watch?v=957fQCm5aDo&t=597s)
 - [**How to build domain knowledge**](https://www.youtube.com/watch?v=Zcdy1BpozW0)
 - [**How to use excel for beginner**](https://www.youtube.com/watch?v=F7aPazuS8QY)
-- [**placeholder**]()
+- [**placeholder*What is data lake?*](https://www.youtube.com/watch?v=-bSkREem8dM)
 - [**placeholder**]()
 - [**placeholder**]()
 - [**placeholder**]()
