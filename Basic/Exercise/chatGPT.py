@@ -6,8 +6,7 @@ import webbrowser
 intellij_exe_path = r'C:\Program Files\JetBrains\IntelliJ IDEA 2022.1\bin\idea64.exe'
 
 # open the IntelliJ IDE using subprocess module
-# subprocess.Popen([intellij_exe_path])
-subprocess.Popen('notepad.exe')
+subprocess.Popen([intellij_exe_path])
 
 
 
@@ -15,7 +14,7 @@ subprocess.Popen('notepad.exe')
 onenote_path = r"C:\Program Files\Microsoft Office\Office16\OUTLOOK.exe"
 
 # Open OneNote app
-# os.startfile(onenote_path)
+os.startfile(onenote_path)
 
 
 
@@ -23,7 +22,7 @@ onenote_path = r"C:\Program Files\Microsoft Office\Office16\OUTLOOK.exe"
 path = "C:/Users/sokha.yorn/AppData/Local/Microsoft/Teams/current/Teams.exe" 
 
 # Start Teams
-# subprocess.Popen(path)
+subprocess.Popen(path)
 
 
 
